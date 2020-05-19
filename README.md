@@ -1,2 +1,3 @@
 # hello-world
 diverse stuff to store and understand
+maybe one should get into this stuff...
